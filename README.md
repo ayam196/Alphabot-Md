@@ -65,10 +65,10 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ## For Termux
 ```ts
 apt update && apt upgrade
-pkg install bash
-git clone https://github.com/zeeone-ofc/Alphabot-Md.git
+git clone https://github.com/ayam196/Alphabot-Md
 cd Alphabot-Md
-bash install.sh
+yarn
+npm start
 ```
 
 ## Edit file
